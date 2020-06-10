@@ -40,7 +40,6 @@ They are less-cost comparing other GPU's and can be used efficiently for most of
 - **Python**- Click [here](https://www.python.org/downloads/) to download
 - **OpenVino Tool Kit**- Click [here](https://software.seek.intel.com/openvino-toolkit?cid=diad&source=hackster&campid=WW_Q2_2020_IoTG-DE_OpenVI%20NO-DA&content=dev-challenge) to download
 
-### Pre-Reques
 ---
 
 ### Getting Started
