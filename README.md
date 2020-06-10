@@ -122,7 +122,7 @@ git push -u origin <your_branch_name>
 
 Always feel free to **file a new issue** with a respective title and description on the [Image-Recognition-and-Classification-Device-for-Blind-People](https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People/issues) repository.
 
-### :shakehands: Contribution
+### :handshake: Contribution
 
 If you have any great ideas which can make this project more better, you can make changes and send me a Pull Request(PR) with a respective title and description on the [Image-Recognition-and-Classification-Device-for-Blind-People](https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People) repository, I will definitely review your pull request.
   
