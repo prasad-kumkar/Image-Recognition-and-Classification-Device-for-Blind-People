@@ -26,7 +26,7 @@ They are less-cost comparing other GPU's and can be used efficiently for most of
 
 ### Goal of this project:
 - **To reduce the difficulties faced by the blind people in their daily life** by creating a device which will tell them what is in front of them(includes identifying the people in front of them using Face recognition)
-- **To make the blind people forget about their disabilities.
+- **To make the blind people forget about their disabilities.**
 
 ### Hardware component required for this projects:
 
