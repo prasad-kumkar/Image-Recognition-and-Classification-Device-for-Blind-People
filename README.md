@@ -1,6 +1,6 @@
 # Image Recognition and Classification Device for Blind People
 
-**Project idea is to implement an image recognition and classification device in spectacles of blind people, so that it can recognize and classify the things(visuals) in front of them. It also helps to identify the people in front of them with the help of face recognition. The classified or recognized image will be converted into speech so that the Blind people can listen and understand what is in front of them.**
+**Project idea is to implement an image recognition and classification device in their pocket with a camera in spectacles of blind people, so that it can recognize and classify the things(visuals) in front of them. It also helps to identify the people in front of them with the help of face recognition. The classified or recognized image will be converted into speech so that the Blind people can listen and understand what is in front of them.**
 
 <p align="center">
 <kbd><img src=https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People/blob/master/images/Project-Theme.jpg width=800 height=369 /><kbd>
@@ -20,25 +20,27 @@ With the help of Intel Movidius NCS we can run any complex pre-trainet Networks 
 This NCS functions as an efficient external processor for performing any complex neural architectures.
 
 **Intel Movidius Neural Compute Stick(NCS)** can be used as an **external GPU** for the systems which cannot support for artificial intelligence based projects.
-They are less-cost comparing other GPU's and can be used efficiently for most of the Deeo Learning, Machine Learning and Artificial Intelligence Based Projects 
+They are less-cost comparing other GPU's and can be used efficiently for most of the Deep Learning, Machine Learning and Artificial Intelligence Based Projects. 
 
 ---
 
-### Goals of this project:
-- **To reduce the difficulties faced by the blind people by creating a device which can recognize and classify what is in front of them(inclusing identifying people in front of them using Face recognition)**
-- **And to convert the classified and recognized image into speech so that they can listen to it can interact with their surrounding easily.**
+### Goal of this project:
+- **To reduce the difficulties faced by the blind people in their daily life** by creating a device which will tell them what is in front of them(includes identifying the people in front of them using Face recognition)
+- **To make the blind people forget about their disabilities.
 
 ### Hardware component required for this projects:
 
-- **Intel Movidius Neural Compute Stick(NCS) 2**
-- **Raspberry pi-3**
-- **Raspberry pi-camera**
+- [**Intel Movidius Neural Compute Stick(NCS) 2**](https://software.intel.com/content/www/us/en/develop/hardware/neural-compute-stick.html)
+- [**Raspberry pi-3** ](https://www.raspberrypi.org/documentation/)
+- [**Raspberry pi-camera**](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/8)
+- **Headset** Click [here](https://www.hackster.io/youness/connect-bluetooth-headset-to-raspberry-pi-3-a2dp-and-hsp-56ec2f) to see how to connect your headset with Raspberry Pi-3)
 
-### Required Softwares:
+### Softwares Requirements:
 
-- **Python**
-- **OpenVino Tool Kit**
+- **Python**- Click [here](https://www.python.org/downloads/) to download
+- **OpenVino Tool Kit**- Click [here](https://software.seek.intel.com/openvino-toolkit?cid=diad&source=hackster&campid=WW_Q2_2020_IoTG-DE_OpenVI%20NO-DA&content=dev-challenge) to download
 
+### Pre-Reques
 ---
 
 ### Getting Started
@@ -104,6 +106,8 @@ git push -u origin <your_branch_name>
 
 1. **Step 08:** For the last step, we clear and shutdown the Movidius NCS device for using it again.
 
+#### These above steps are for image recognition and classification. After this we have to convert the identified image's text into speech.
+
 ---
 
 ### The below image shows the simple hardware connection of Intel Movidius NCS-2 and pi-camera with Raspberry Pi-3.
@@ -113,6 +117,14 @@ git push -u origin <your_branch_name>
   </p>
  
 ---
+
+### :warning: Issues
+
+Always feel free to **file a new issue** with a respective title and description on the [Image-Recognition-and-Classification-Device-for-Blind-People](https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People/issues) repository.
+
+### :shakehands: Contribution
+
+If you have any great ideas which can make this project more better, you can make changes and send me a Pull Request(PR) with a respective title and description on the [Image-Recognition-and-Classification-Device-for-Blind-People](https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People) repository, I will definitely review your pull request.
   
 ### Project Admin
 
