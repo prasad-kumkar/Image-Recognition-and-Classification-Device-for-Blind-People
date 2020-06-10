@@ -33,7 +33,7 @@ They are less-cost comparing other GPU's and can be used efficiently for most of
 - [**Intel Movidius Neural Compute Stick(NCS) 2**](https://software.intel.com/content/www/us/en/develop/hardware/neural-compute-stick.html)
 - [**Raspberry pi-3** ](https://www.raspberrypi.org/documentation/)
 - [**Raspberry pi-camera**](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/8)
-- **Headset** Click [here](https://www.hackster.io/youness/connect-bluetooth-headset-to-raspberry-pi-3-a2dp-and-hsp-56ec2f) to see how to connect your headset with Raspberry Pi-3)
+- **Headset-** Click [here](https://www.hackster.io/youness/connect-bluetooth-headset-to-raspberry-pi-3-a2dp-and-hsp-56ec2f) to see how to connect your headset with Raspberry Pi-3)
 
 ### Softwares Requirements:
 
