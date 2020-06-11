@@ -24,9 +24,12 @@ They are less-cost comparing other GPU's and can be used efficiently for most of
 
 ---
 
+## 👩‍ Vision
 ### Goals of this project:
 - **To reduce the difficulties faced by the blind people in their daily life** by creating a device which will tell them what is in front of them(includes identifying the people in front of them using Face recognition)
 - **To make the blind people forget about their disabilities.**
+
+---
 
 ### Hardware component required for this projects:
 
@@ -124,6 +127,8 @@ Always feel free to **file a new issue** with a respective title and description
 ### :handshake: Contribution
 
 If you have any great ideas which can make this project more better, you can make changes and send me a Pull Request(PR) with a respective title and description on the [Image-Recognition-and-Classification-Device-for-Blind-People](https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People) repository, I will definitely review your pull request.
+
+---
   
 ### Project Admin
 
