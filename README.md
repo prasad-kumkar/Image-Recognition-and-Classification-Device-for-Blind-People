@@ -8,7 +8,7 @@
 
 ---
 
-## Project:
+## **Project:**
 
 # Image Recognition and Classification Device for Blind People
 
