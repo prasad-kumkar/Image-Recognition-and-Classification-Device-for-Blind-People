@@ -1,3 +1,12 @@
+# Open Source Contest Student Code-In
+
+**Student Code-In is a global program that helps students grow with Open Source. It is a 2 months long Open-Source initiative which provides you the best platform to improve your skills and abilities by contributing to vast variety of Open Source Projects. In this, all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team.**
+
+<p align="center">
+  <kbd><img src="" ></kbd>
+  </p>
+
+
 # Image Recognition and Classification Device for Blind People
 
 **Project idea is to implement an image recognition and classification device in their pocket with a camera in spectacles of blind people, so that it can recognize and classify the things(visuals) in front of them. It also helps to identify the people in front of them with the help of face recognition. The classified or recognized image will be converted into speech so that the Blinds can listen and understand what is in front of them with the help of a headset.**
