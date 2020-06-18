@@ -17,14 +17,14 @@
 **Project idea is to implement an image recognition and classification device in their pocket with a camera in spectacles of blind people, so that it can recognize and classify the things(visuals) in front of them. It also helps to identify the people in front of them with the help of face recognition. The classified or recognized image will be converted into speech so that the Blinds can listen and understand what is in front of them with the help of a headset.**
 
 <p align="center">
-<kbd><img src=https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People/blob/master/images/Project-Theme.jpg width=800 height=369 /><kbd>
+<kbd><img src=https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People/blob/master/images/Project-Theme.jpg width=800 height=369 /></kbd>
   </p>
 
 
 **This device will help to identify and classify the things in front of them using Intel Movidius Neural Compute Stick(NCS) with Raspberry Pi-3 and a Pi-Camera.**
 
 <p align="center">
-<kbd><img src=https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People/blob/master/images/IMNCS.png width=800 height=369 /><kbd>
+<kbd><img src=https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People/blob/master/images/IMNCS.png width=800 height=369 /></kbd>
   </p>
   
   
@@ -128,7 +128,7 @@ git push -u origin <your_branch_name>
 ### The below image shows the simple hardware connection of Intel Movidius NCS-2 and pi-camera with Raspberry Pi-3.
 
 <p align="center">
-<kbd><img src=https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People/blob/master/images/hardware%20setting.jpg width=500 height=375 /><kbd>
+<kbd><img src=https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People/blob/master/images/hardware%20setting.jpg width=500 height=375 /></kbd>
   </p>
  
 ---
