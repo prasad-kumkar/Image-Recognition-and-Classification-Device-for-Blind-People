@@ -24,7 +24,7 @@
 **This device will help to identify and classify the things in front of them using Intel Movidius Neural Compute Stick(NCS) with Raspberry Pi-3 and a Pi-Camera.**
 
 <p align="center">
-<kbd><img src=https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People/blob/master/images/IMNCS.png width=800 height=369 /><kbd>
+<kbd><img src=https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People/blob/master/images/IMNCS.png width=800 height=369 /></kbd>
   </p>
   
   
